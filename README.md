@@ -23,12 +23,9 @@ Visual layout, styling, and interactivity are what I work with daily:
 
 ### 📊 GitHub Coding Activity
 
-> [!NOTE]
-> Ganti teks `USERNAME_BARU_KAMU` di bawah ini dengan username GitHub barumu supaya statistiknya muncul.
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_BARU_KAMU&show_icons=true&theme=tokyonight&count_private=true" alt="Fairuz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_BARU_KAMU&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fairuz-DevCode&show_icons=true&theme=tokyonight&count_private=true" alt="Fairuz's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairuz-DevCode&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
