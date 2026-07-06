@@ -29,9 +29,3 @@ Visual layout, styling, and interactivity are what I work with daily:
 </p>
 
 ---
-
-### 📬 Connect with Me
-
-Let's discuss clean code, structural styling, or full-blown web projects!
-
-- **Email:** [fairuzefendi11@gmail.com](mailto:fairuzefendi11@gmail.com)
